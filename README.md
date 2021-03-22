@@ -1,5 +1,2 @@
-Meu primeiro sistema no GIT
+Meu segundo sistema no GIT {alterado e atualizado}
 
-Alteração no readme para melhor entendimento do sistema
-
-alteração no master
